@@ -1,3 +1,7 @@
+//Worked with: Greta Berdynaj and Zeynep Avci
+https://github.com/lights9/prog2Exercise2
+
+
 # Traffic Light
 
 Das ist das Codetemplate für die zweite Übung in Programmierung 2.
